@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {
+      "$oid": "604bb7497b3ac0b4fd98e46f"
+    },
+    "titre": "Max",
+    "description": "Alex",
+    "date": "2020-12-219",
+    "auteur": "john"
+  },
+  {
+    "_id": {
+      "$oid": "604bb7497b3ac0b4fd98e470"
+    },
+    "titre": "creation une base",
+    "description": "dans cette collection",
+    "date": "2005-06-2005",
+    "auteur": "john Travolta"
+  }
+]

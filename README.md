@@ -1,4 +1,4 @@
-# blogAPI
+# BlogAPI
 
 Reading Blog data from a JSON file. JSON file content was generated from MongoDB
 
@@ -19,9 +19,6 @@ Attributes : titre,description,date,auteur.
 - MAMP (web server)
 - VSCode (coding tool)
 
-## Future ameliorations
-- populate the database with more data (more complex tree) to play with
-- Build a React-App (front-end) to fetch the data and display on a compelling responsive UI
 
 ## Contributor
 

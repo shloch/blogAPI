@@ -2,8 +2,8 @@
 
 Reading Blog data from a JSON file. JSON file content was generated from MongoDB
 
-Collection : Blog.
-Attributes : titre,description,date,auteur.
+- Collection : Blog.
+- Attributes : titre,description,date,auteur.
 
 ## LIVE DEMO 
 
